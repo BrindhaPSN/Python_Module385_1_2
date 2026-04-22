@@ -15,3 +15,4 @@
 
 # To save the list of installed packages:
 - Run command `pip freeze > requirements.txt`
+- creates requirements.txt file with all required packages for this program.
